@@ -1,0 +1,19 @@
+{
+  "name": "javascript-webpack-p01-demo",
+  "version": "1.0.0",
+  "description": "Javascript-webpack-P01-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonmatias2015/Javascript-webpack-P01-demo.git"
+  },
+  "author": "Leon matias roslin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonmatias2015/Javascript-webpack-P01-demo/issues"
+  },
+  "homepage": "https://github.com/leonmatias2015/Javascript-webpack-P01-demo#readme"
+}
